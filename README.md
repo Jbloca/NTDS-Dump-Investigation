@@ -60,7 +60,7 @@ Correlacionar el Logon ID con registros de inicio de sesión para determinar la 
 
 --- 
 
-### ** 📊 Resultados**
+### **📊 Resultados**
 Respuestas a las preguntas clave:
   1. 🕒 Última marca de tiempo del servicio Shadow Copy en ejecución: 2024-05-15 05:39:55.
   2. 📂 Ruta completa del archivo NTDS volado:  C:\Windows\Temp\dump_tmp\Active Directory\ntds.dit.
@@ -72,7 +72,7 @@ Respuestas a las preguntas clave:
 
 ---
 
-### ** 📚 Lecciones Aprendidas
+### **📚 Lecciones Aprendidas**
   1. 💡 La persistencia del atacante demuestra la necesidad de un monitoreo continuo en entornos críticos.
   2. 🔒 Es crucial implementar herramientas de detección de amenazas avanzadas para identificar actividades sospechosas relacionadas con ntdsutil.exe.
   3. 👨‍💻 Establecer políticas de privilegios mínimos reduce el impacto de las cuentas comprometidas.
