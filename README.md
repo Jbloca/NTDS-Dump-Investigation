@@ -58,7 +58,7 @@ Inspeccionar las enumeraciones realizadas por ntdsutil.exe para los grupos de us
 ### 5️⃣ Identificación del Tiempo de Inicio de Sesión
 Correlacionar el Logon ID con registros de inicio de sesión para determinar la hora exacta.
 
--- 
+--- 
 
 ### ** 📊 Resultados**
 Respuestas a las preguntas clave:
@@ -70,14 +70,14 @@ Respuestas a las preguntas clave:
   6. 🛡️ Grupos enumerados por ntdsutil.exe: Administrators, Backup Operators.
   7. ⏱️ Tiempo de inicio de sesión malicioso: 2024-05-15 05:36:31
 
---
+---
 
 ### ** 📚 Lecciones Aprendidas
   1. 💡 La persistencia del atacante demuestra la necesidad de un monitoreo continuo en entornos críticos.
   2. 🔒 Es crucial implementar herramientas de detección de amenazas avanzadas para identificar actividades sospechosas relacionadas con ntdsutil.exe.
   3. 👨‍💻 Establecer políticas de privilegios mínimos reduce el impacto de las cuentas comprometidas.
 
---
+---
 
 ### **🚀 Próximos Pasos**
   1. ⚙️ Implementar medidas para restringir el uso de herramientas administrativas como ntdsutil.exe.
