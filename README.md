@@ -85,3 +85,10 @@ Respuestas a las preguntas clave:
     - Activación de Shadow Copy.
     - Modificaciones o accesos a la base de datos NTDS.dit.
   3. 📈 Reforzar las auditorías de seguridad y la capacitación de los administradores de dominio.
+---
+
+## **👨‍💻 Autor 
+
+**[Jorge Balarezo Cardenas]**  
+- LinkedIn: [Enlace a mi perfil](https://www.linkedin.com/in/jorge-balarezo-cardenas/)  
+- Email: [jbalarezocarden@gmail.com]
