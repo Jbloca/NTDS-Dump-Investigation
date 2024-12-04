@@ -87,7 +87,7 @@ Respuestas a las preguntas clave:
   3. 📈 Reforzar las auditorías de seguridad y la capacitación de los administradores de dominio.
 ---
 
-## **👨‍💻 Autor 
+## **👨‍💻 Autor** 
 
 **[Jorge Balarezo Cardenas]**  
 - LinkedIn: [Enlace a mi perfil](https://www.linkedin.com/in/jorge-balarezo-cardenas/)  
